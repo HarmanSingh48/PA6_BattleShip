@@ -1,0 +1,8 @@
+﻿  main.c
+  PA6.c
+X:\Downloads\Singh_PA6\PA 6\PA 6\PA6.c(356,37): warning C4101: 'already_sunk': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PA 6.vcxproj -> X:\Downloads\Singh_PA6\PA 6\Release\PA 6.exe
